@@ -6,3 +6,13 @@ patch:
   'npm:ms:20151024':
     - humanize-ms > ms:
         patched: '2020-04-22T08:07:15.465Z'
+  'npm:debug:20170905':
+    - tap > tap-mocha-reporter > debug:
+        patched: '2020-04-22T08:09:55.505Z'
+    - snyk > proxy-agent > pac-proxy-agent > get-uri > debug:
+        patched: '2020-04-22T08:09:55.505Z'
+  'npm:ms:20170412':
+    - tap > tap-mocha-reporter > debug > ms:
+        patched: '2020-04-22T08:09:55.505Z'
+    - snyk > proxy-agent > pac-proxy-agent > get-uri > debug > ms:
+        patched: '2020-04-22T08:09:55.505Z'
