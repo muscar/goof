@@ -6,3 +6,54 @@ patch:
   'npm:ms:20151024':
     - humanize-ms > ms:
         patched: '2020-04-22T08:07:15.465Z'
+  SNYK-JS-LODASH-567746:
+    - lodash:
+        patched: '2020-05-01T00:20:48.098Z'
+    - snyk > @snyk/dep-graph > lodash:
+        patched: '2020-05-01T00:20:48.098Z'
+    - snyk > inquirer > lodash:
+        patched: '2020-05-01T00:20:48.098Z'
+    - snyk > @snyk/snyk-cocoapods-plugin > @snyk/dep-graph > lodash:
+        patched: '2020-05-01T00:20:48.098Z'
+    - snyk > snyk-mvn-plugin > @snyk/java-call-graph-builder > lodash:
+        patched: '2020-05-01T00:20:48.098Z'
+    - snyk > snyk-nuget-plugin > dotnet-deps-parser > lodash:
+        patched: '2020-05-01T00:20:48.098Z'
+    - snyk > @snyk/snyk-cocoapods-plugin > @snyk/cocoapods-lockfile-parser > @snyk/ruby-semver > lodash:
+        patched: '2020-05-01T00:20:48.098Z'
+    - snyk > lodash:
+        patched: '2020-05-01T00:20:48.098Z'
+    - snyk > graphlib > lodash:
+        patched: '2020-05-01T00:20:48.098Z'
+    - snyk > snyk-config > lodash:
+        patched: '2020-05-01T00:20:48.098Z'
+    - snyk > snyk-mvn-plugin > lodash:
+        patched: '2020-05-01T00:20:48.098Z'
+    - snyk > snyk-nodejs-lockfile-parser > lodash:
+        patched: '2020-05-01T00:20:48.098Z'
+    - snyk > snyk-nuget-plugin > lodash:
+        patched: '2020-05-01T00:20:48.098Z'
+    - snyk > @snyk/dep-graph > graphlib > lodash:
+        patched: '2020-05-01T00:20:48.098Z'
+    - snyk > snyk-go-plugin > graphlib > lodash:
+        patched: '2020-05-01T00:20:48.098Z'
+    - snyk > snyk-nodejs-lockfile-parser > graphlib > lodash:
+        patched: '2020-05-01T00:20:48.098Z'
+    - snyk > snyk-php-plugin > @snyk/composer-lockfile-parser > lodash:
+        patched: '2020-05-01T00:20:48.098Z'
+    - snyk > @snyk/snyk-cocoapods-plugin > @snyk/dep-graph > graphlib > lodash:
+        patched: '2020-05-01T00:20:48.098Z'
+    - snyk > snyk-mvn-plugin > @snyk/java-call-graph-builder > graphlib > lodash:
+        patched: '2020-05-01T00:20:48.098Z'
+    - snyk > snyk-mvn-plugin > @snyk/java-call-graph-builder > snyk-config > lodash:
+        patched: '2020-05-01T00:20:48.098Z'
+    - tap > nyc > istanbul-lib-instrument > @babel/traverse > lodash:
+        patched: '2020-05-01T00:20:48.098Z'
+    - snyk > @snyk/snyk-cocoapods-plugin > @snyk/cocoapods-lockfile-parser > @snyk/dep-graph > graphlib > lodash:
+        patched: '2020-05-01T00:20:48.098Z'
+    - tap > nyc > istanbul-lib-instrument > @babel/traverse > @babel/generator > lodash:
+        patched: '2020-05-01T00:20:48.098Z'
+    - tap > nyc > istanbul-lib-instrument > @babel/traverse > @babel/helper-split-export-declaration > @babel/types > lodash:
+        patched: '2020-05-01T00:20:48.098Z'
+    - tap > nyc > istanbul-lib-instrument > @babel/traverse > @babel/helper-function-name > @babel/helper-get-function-arity > @babel/types > lodash:
+        patched: '2020-05-01T00:20:48.098Z'
